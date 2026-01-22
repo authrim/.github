@@ -1,10 +1,14 @@
 <div align="center">
 
+<!--
 <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/authrim/.github/main/assets/logo-dark.svg" width="280">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/authrim/.github/main/assets/logo-light.svg" width="280">
   <img alt="Authrim" src="https://raw.githubusercontent.com/authrim/.github/main/assets/logo-light.svg" width="280">
 </picture>
+-->
+# Authrim
 
 ### Open Source Identity & Access Platform for the modern web
 
@@ -31,7 +35,7 @@
 ### ✅ OpenID Certified
 
 <a href="https://openid.net/certification/">
-  <img src="https://raw.githubusercontent.com/authrim/authrim/main/docs/images/openid-certified.jpg" alt="OpenID Certified" height="80">
+  <img src="https://raw.githubusercontent.com/sgrastar/authrim/main/docs/images/openid-certified.jpg" alt="OpenID Certified" height="80">
 </a>
 
 Certified by the [OpenID Foundation](https://openid.net/certification/):
@@ -50,7 +54,7 @@ Deploy your own identity platform in minutes:
 npx @authrim/setup
 ```
 
-[Setup documentation →](https://github.com/authrim/authrim/tree/main/packages/setup)
+[Setup documentation →](https://github.com/sgrastar/authrim/tree/main/packages/setup)
 
 </td>
 </tr>
@@ -105,7 +109,7 @@ await auth.passkey.login();
 
 | Repository | Description |
 |------------|-------------|
-| [**authrim/authrim**](https://github.com/authrim/authrim) | Core identity platform (Cloudflare Workers) |
+| [**authrim/authrim**](https://github.com/sgrastar/authrim) | Core identity platform (Cloudflare Workers) |
 | [**authrim/js-web**](https://github.com/authrim/js-web) | Browser SDK (`@authrim/web`) |
 | [**authrim/js-core**](https://github.com/authrim/js-core) | Core SDK (`@authrim/core`) |
 | [**authrim/example-web**](https://github.com/authrim/example-web) | Vanilla JS example app |
