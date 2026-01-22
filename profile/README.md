@@ -75,6 +75,17 @@ npx @authrim/setup
 
 ---
 
+## Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [**sgrastar/authrim**](https://github.com/sgrastar/authrim) | Core identity platform (Cloudflare Workers) |
+| [**authrim/js-web**](https://github.com/authrim/js-web) | Browser SDK (`@authrim/web`) |
+| [**authrim/js-core**](https://github.com/authrim/js-core) | Core SDK (`@authrim/core`) |
+| [**authrim/example-web**](https://github.com/authrim/example-web) | Vanilla JS example app |
+
+---
+
 ## Get Started
 
 ### Quick Start
@@ -105,16 +116,6 @@ await auth.passkey.login();
 
 ---
 
-## Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [**authrim/authrim**](https://github.com/sgrastar/authrim) | Core identity platform (Cloudflare Workers) |
-| [**authrim/js-web**](https://github.com/authrim/js-web) | Browser SDK (`@authrim/web`) |
-| [**authrim/js-core**](https://github.com/authrim/js-core) | Core SDK (`@authrim/core`) |
-| [**authrim/example-web**](https://github.com/authrim/example-web) | Vanilla JS example app |
-
----
 
 <div align="center">
 
